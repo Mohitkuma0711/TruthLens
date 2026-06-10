@@ -8,7 +8,7 @@ TruthLens AI is a full-stack platform that helps users detect **misinformation i
 
 | | URL |
 |---|---|
-| **Frontend** | https://truth-lens-nine-sand.vercel.app/ |
+| **Frontend** | https://truth-lens-nine-sand.vercel.app/ ||||||
 | **Backend API** | https://truthlens-gxnp.onrender.com |
 | **API Docs** | https://truthlens-gxnp.onrender.com/docs |
 
